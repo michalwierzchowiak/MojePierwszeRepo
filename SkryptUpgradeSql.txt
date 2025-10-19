@@ -1,0 +1,1 @@
+Zalóżmy że jest tu skrypt upgrade który stworzy konkretne indeksy na bazie

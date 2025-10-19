@@ -1,0 +1,1 @@
+         Projekt ma na celu zaprezentowanie działania wersji kontroli GIT
